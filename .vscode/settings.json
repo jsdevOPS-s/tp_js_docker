@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.wordWrap": "on",
+    "explorer.compactFolders": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.limit.enabled": false,
+    "workbench.editor.limit.value": 15
+}
